@@ -41,12 +41,12 @@ $ suntimes -sr 12.34 56.78
 ```
 
 ## Installation
-- Compile it byt going into `cmd/suntimes` and typing `go build`
+- Compile it byt going into `cmd/suntimes` and typing `go build`.
   You may have to run also a `go get github.com/nathan-osman/go-sunrise` if prompted.
 - copy the generated executable in your PATH, e.g. `cp suntimes /usr/local/bin`
 
 ## History
-- v1.0.0 2022-03-03 Initila release
+- v1.0.0 2022-03-03 Initial release
 
 
 (c) 2022 Colas Nahaboo, MIT license.
